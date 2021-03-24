@@ -1,3 +1,4 @@
+# Copyright 2021 Sensetime Yongqiang Yao, Tianzi Xiao
 from torch.utils.data import Dataset
 import requests
 from retrying import retry

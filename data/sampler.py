@@ -1,3 +1,4 @@
+# Copyright 2021 Sensetime Yongqiang Yao, Tianzi Xiao
 from .utils import get_rank, get_world_size
 import torch
 import math

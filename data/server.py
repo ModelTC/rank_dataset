@@ -1,3 +1,4 @@
+# Copyright 2021 Sensetime Yongqiang Yao, Tianzi Xiao
 from __future__ import division
 
 # Standard Library

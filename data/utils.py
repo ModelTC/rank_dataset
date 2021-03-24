@@ -1,3 +1,4 @@
+# Copyright 2021 Sensetime Yongqiang Yao, Tianzi Xiao
 import torch
 import torch.distributed as dist
 
